@@ -1,0 +1,1 @@
+# CNNs-Skin-Conditions-Fitzpatrick-Scale
